@@ -61,3 +61,7 @@ __negrito__
 if nota>8:
   print("Aprovador")
 ```
+
+### Visualizção
+
+"."
